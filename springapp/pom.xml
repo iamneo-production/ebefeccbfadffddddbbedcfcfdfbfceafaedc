@@ -14,6 +14,9 @@
 	<name>springapp</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
+    <start-class>src.main.java.com.examly.SpringApplication</start-class>
+   </properties>
+	<properties>
 		<java.version>11</java.version>
 	</properties>
 	<dependencies>
